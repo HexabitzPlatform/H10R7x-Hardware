@@ -134,6 +134,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNGXNYEU
 
+[Document6]
+DocumentPath=H01R0.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for H01R0\Design Rule Check - H10R7.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Module_Description
 Value=RGB LED
