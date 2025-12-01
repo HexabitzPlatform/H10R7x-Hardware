@@ -1,0 +1,533 @@
+*************************************************************
+FileName = H10R7.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 14
+      File : H10R7_Mechanical_14.gbr
+
+    Adding Layer      : Mechanical 14
+
+
+Used DCodes :
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : H10R7_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : H10R7_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D18
+    D20
+    D21
+    D27
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Covering
+      File : H10R7_Top_Covering.gbr
+
+    Adding Layer      : Top Covering
+
+
+Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : H10R7_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : H10R7_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D12
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 32
+      File : H10R7_Mechanical_32.gbr
+
+    Adding Layer      : Mechanical 32
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Tenting
+      File : H10R7_Top_Tenting.gbr
+
+    Adding Layer      : Top Tenting
+
+
+Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : H10R7_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D12
+    D13
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : H10R7_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D27
+    D36
+    D37
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : H10R7_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D12
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : H10R7_Mechanical_16.gbr
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : H10R7_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : H10R7_Mechanical_12.gbr
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : H10R7_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : H10R7_Bottom_Component_Center.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : H10R7_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : H10R7_Dimensions.gbr
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : H10R7_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : H10R7_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : H10R7_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D27
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : H10R7_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : H10R7_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : H10R7_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : H10R7_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : H10R7_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : H10R7_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 33
+      File : H10R7_Mechanical_33.gbr
+
+    Adding Layer      : Mechanical 33
+
+
+Used DCodes :
+    D62
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : H10R7_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D34
+    D36
+    D37
+    D45
+    D48
+    D50
+    D51
+    D52
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : H10R7_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D22
+    D23
+    D25
+    D26
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : H10R7_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D17
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : H10R7_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : H10R7_Profile.gbr
+
+
+Used DCodes :
+    D70
+*************************************************************
+
